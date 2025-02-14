@@ -1,5 +1,7 @@
 # senpro01
 
 Ketua Kelompok: Daniel Anantadhirya Adyawisesa Linan
+
 Anggota 1: Afix Vega Praditya
-Anggota 2: Ovie Khaira Zayyan
+
+Anggota 2: Ovie Khaira Zayyan (22/494801/TK/54315)
